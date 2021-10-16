@@ -1,5 +1,7 @@
 # deno_fizzbuzz
 
+[![Deno CI](https://github.com/shinshin86/deno_fizzbuzz/actions/workflows/main.yml/badge.svg)](https://github.com/shinshin86/deno_fizzbuzz/actions/workflows/main.yml)
+
 Fizz Buzz at deno.
 
 ## Usage
